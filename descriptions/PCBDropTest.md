@@ -80,3 +80,7 @@ Mesh refinement includes **Hourglass Control** for stability and accuracy.
    - The study highlights the importance of material selection in designing protective packaging for sensitive electronics. Foam offers better energy absorption, making it ideal for mitigating drop impacts in real-world scenarios.  
 
 ---
+
+More project details are in attached pdf file:
+
+[](/descriptions/resources/PCB_NataliaBorysowska-Sleczka.pdf)
