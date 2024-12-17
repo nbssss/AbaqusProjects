@@ -57,14 +57,14 @@ Mesh refinement includes **Hourglass Control** for stability and accuracy.
 - **Velocity**: Smooth deceleration indicates effective energy absorption by the foam.  
 - **Analysis**: The foam effectively protected the PCB by dissipating impact energy, preventing sudden jolts or excessive stress on the board.  
 
-![](/resources/pianka.gif)
+![](/descriptions/resources/pianka.gif)
 
 ### Variant 2: Elastomer Packaging  
 - **Acceleration**: Peak acceleration values exceeded **4500 m/s²**, surpassing IPC safety thresholds.  
 - **Velocity**: Higher initial impact forces caused more abrupt deceleration, indicating insufficient energy absorption.  
 - **Analysis**: Although the elastomer provided some cushioning, it was less effective than foam, exposing the PCB to potentially damaging forces.  
 
-![](/resources/guma.gif)
+![](/descriptions/resources/guma.gif)
 
 ---
 

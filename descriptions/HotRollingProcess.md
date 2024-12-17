@@ -46,15 +46,15 @@ This simulation highlights the behavior of the billet during deformation, includ
 
 **Step 1**:
 
-![](/resources/s1.gif)
+![](/descriptions/resources/s1.gif)
 
-![](/resources/s1_2.gif)
+![](/descriptions/resources/s1_2.gif)
 
 **Step 1 and 2**:
 
-![](/resources/s1_s2.gif)
+![](/descriptions/resources/s1_s2.gif)
 
-![](/resources/s1_s2_2.gif)
+![](/descriptions/resources/s1_s2_2.gif)
 
 ---
 
