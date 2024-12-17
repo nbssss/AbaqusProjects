@@ -83,4 +83,4 @@ Mesh refinement includes **Hourglass Control** for stability and accuracy.
 
 More project details are in attached pdf file:
 
-[](/descriptions/resources/PCB_NataliaBorysowska-Sleczka.pdf)
+[](https://github.com/nbssss/AbaqusProjects/blob/main/descriptions/resources/PCB_NataliaBorysowsa-Sleczka.pdf)
